@@ -7,4 +7,4 @@ Software Engineer focused on systems, on-device AI/ML integration, and scalable 
 - 🚀 **Featured Projects:**
   - [Finance-Tracker](https://github.com/manasIO/Finance-Tracker) — Local-first iOS expense tracker using SwiftData, SwiftUI, and Vision framework OCR.
   - [Engineering-Knowledge-Agent](https://github.com/manasIO/Engineering-Knowledge-Agent) — AI-powered developer tool designed to streamline technical workflows.
-- 📫 **How to reach me:** [tiwarimnas27@gmail.com](mailto:tiwarimnas27@gmail.com) | [LinkedIn](https://linkedin.com/in/manas-tiwari-)
+- 📫 **How to reach me:** [tiwarimanas27@gmail.com](mailto:tiwarimanas27@gmail.com) | [LinkedIn](https://linkedin.com/in/manas-tiwari-)
